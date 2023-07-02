@@ -2,12 +2,12 @@ A Wordpress plugin that displays the visitor information that can be retrieved v
 <br>
 To display the complete data use the following shortcode : [visitor_info].
 There is a widget where you can select what you want to display in the widget for visitor information.
-
+<br>
 The whole code was generated using artificial intelligence and seems to work.
-
-Installation: Place the file " fm-visitor.information.php" in a new directory in the wordpress plugin directory and activate it via GUI.
-
+<br>
+Installation:<br>
+Place the file " fm-visitor.information.php" in a new directory in the wordpress plugin directory and activate it via GUI.
+<br>
 Use at your own risk, support only if artificial intelligence is involved.
 It would be nice if the code would be picked up and extended by a programmer, because I am definitely not a programmer ;-)
-
-Translated with www.DeepL.com/Translator (free version)
+<br>
