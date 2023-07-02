@@ -1,6 +1,7 @@
 A Wordpress plugin that displays the visitor information that can be retrieved via Java Script and "Window Object".
 <br>
-To display the complete data use the following shortcode : [visitor_info].
+To display the complete data use the following shortcode : <br>
+[visitor_info].<br>
 There is a widget where you can select what you want to display in the widget for visitor information.
 <br>
 The whole code was generated using artificial intelligence and seems to work.
