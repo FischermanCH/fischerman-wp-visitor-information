@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: FM-Visitor-Information
-Description: Shows visitor information.
+Description: Shows visitor information.Use "[visitor_info]" shortcode in your WordPress content to display visitor information. There is also a Widget available and you can even configure it ;-)
 Version: 1.0
 Author: Fischerman.ch
 Author URI: https://www.fischerman.ch
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-Use "[visitor_info]" shortcode in your WordPress content to display visitor information.
+
 */
 
 // Shortcode function to display visitor information
