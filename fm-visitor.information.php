@@ -5,9 +5,9 @@ Description: Shows visitor information.Use "[visitor_info]" shortcode in your Wo
 Version: 1.0
 Author: Fischerman.ch
 Author URI: https://www.fischerman.ch
-License: GPL2
+License: GPL3
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
-
+Working Demo at : https://www.fischerman.ch/?page_id=530092
 */
 
 // Shortcode function to display visitor information
