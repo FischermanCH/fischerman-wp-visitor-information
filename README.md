@@ -1,5 +1,5 @@
-# fischerman-wp-visitor-information
-A Wordpress that displays the visitor data that can be determined via Java Script and "Window Object".
+A Wordpress plugin that displays the visitor information that can be retrieved via Java Script and "Window Object".
+<br>
 To display the complete data use the following shortcode : [visitor_info].
 There is a widget where you can select what you want to display in the widget for visitor information.
 
