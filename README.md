@@ -1,3 +1,5 @@
+# Wordpress Plugin //Fischerman Visitor Information""
+
 A Wordpress plugin that displays visitor information that can be retrieved via the Java Script  "Window Object".
 
 To display the complete data use the following shortcode :
