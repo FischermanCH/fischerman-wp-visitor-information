@@ -9,7 +9,7 @@ To display the complete data use the following shortcode somewhere in your Wordp
 
 There is also a Wordpress widget where you can select what information you want to display in the widget.
 
-<span style="color: #ff0000;">The whole code was generated using artificial intelligence and seems to work.</span>
+***The whole code was generated using artificial intelligence !!!***
   <br>
 Code completely free to use it forwhatever you want to use it !
 If you want to update/change it, let me know and we can make a project out of it ;-)
@@ -21,7 +21,7 @@ Place the file " <em><span style="color: #3366ff;">fm-visitor.information.php</s
 
 It would be nice if this code would be picked up and extended by a real programmer, because I am definitely not a programmer ;-)
 
-Demo available here :  [Fischerman.CH Website/Visitor Information ](https://www.fischerman.ch/?page_id=530092).
+Demo available here :  [Fischerman.CH Website/Visitor Information ](https://www.fischerman.ch/?page_id=530092)
 
 ### Print Screen's
 
