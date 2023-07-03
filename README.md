@@ -4,7 +4,7 @@ To display the complete data use the following shortcode :
 
 <strong><em>[visitor_info]</em></strong>
 
-There is a widget where you can select what you want to display in the widget for visitor information.
+There is also a Wordpress widget where you can select what information you want to display in the widget.
 
 <span style="color: #ff0000;">The whole code was generated using artificial intelligence and seems to work.</span>
 
