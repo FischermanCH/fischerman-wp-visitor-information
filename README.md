@@ -21,6 +21,11 @@ It would be nice if this code would be picked up and extended by a real programm
 Demo available here :  [Fischerman.CH Website/Visitor Information ](https://www.fischerman.ch/?page_id=530092).
 
 How it looks on a Wordpress Site
+<p align="center">
+  <img src="https://github.com/FischermanCH/fischerman-wp-visitor-information/assets/53817150/e8b9c8c6-7667-4fd5-a453-60d876d16b42" />
+</p>
+
+
 ![fm-visit-inf_ps_01_result_small](https://github.com/FischermanCH/fischerman-wp-visitor-information/assets/53817150/e8b9c8c6-7667-4fd5-a453-60d876d16b42)
 
 Configuration of the Widget
