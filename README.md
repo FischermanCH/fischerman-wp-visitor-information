@@ -1,5 +1,5 @@
-# Wordpress Plugin
-# Fischerman Visitor Information""
+## Wordpress Plugin
+# Fischerman Visitor Information
 
 A Wordpress plugin that displays visitor information which can be retrieved via the Java Script  **Window Object**.
 
