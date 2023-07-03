@@ -9,7 +9,6 @@ License: GPL3
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Working Demo at : https://www.fischerman.ch/?page_id=530092
 */
-
 // Shortcode function to display visitor information
 function display_visitor_information() {
     $visitorInfo = array(
