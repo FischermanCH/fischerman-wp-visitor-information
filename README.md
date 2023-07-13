@@ -1,5 +1,5 @@
 ## Wordpress Plugin
-# Visitor Information by Fischerman and Friend's 
+# Visitor Information (by Fischerman.ch and Friend's)
 
 A Wordpress plugin that displays visitor information which can be retrieved via the Java Script  **Window Object**.
 
