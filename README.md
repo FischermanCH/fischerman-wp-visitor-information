@@ -35,10 +35,3 @@ Use at your own risk, support only if I can involve an artificial intelligence ð
   <img src="https://github.com/FischermanCH/fischerman-wp-visitor-information/assets/53817150/750076c0-4e56-49e2-8dd8-479754dea73c" />
 </p>
 <br>
-<p align="left">
-  and the result in the Widget
-  <br>
-  <img src="https://github.com/FischermanCH/fischerman-wp-visitor-information/assets/53817150/8600c07d-e104-4a88-9392-66aad6940689)" />
-</p>
-
-
